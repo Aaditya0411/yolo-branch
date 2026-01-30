@@ -1,4 +1,6 @@
 # YOLO badge test 🚀
 
-Update README for YOLO badge
+- Update README for YOLO badge
+- Quickdraw test by friend ⚡
+
 
